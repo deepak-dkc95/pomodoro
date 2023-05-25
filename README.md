@@ -4,7 +4,7 @@ Clock based on [pomodoro technique](https://en.wikipedia.org/wiki/Pomodoro_Techn
 ## Description
 The clock is designed with a start and a reset button.\
 Start button - Starts the clock.\
-Reset button - Resets the clock to 00:00
+Reset button - Resets the clock to 00:00 \
 Work session - Each work session is 25 minutes.\
 Short break session - Each short break session is of 5 minutes.\
 Long break session - Each long break session is of 20 minutes.
